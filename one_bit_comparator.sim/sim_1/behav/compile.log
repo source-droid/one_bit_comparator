@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Digital System Design/Lab 1 Lab Activities/one_bit_comparator/one_bit_comparator.srcs/sources_1/new/one_bit_comparator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module one_bit_comparator
+INFO: [VRFC 10-2458] undeclared symbol A_invert, assumed default net type wire [F:/Digital System Design/Lab 1 Lab Activities/one_bit_comparator/one_bit_comparator.srcs/sources_1/new/one_bit_comparator.v:8]
+INFO: [VRFC 10-2458] undeclared symbol B_bar, assumed default net type wire [F:/Digital System Design/Lab 1 Lab Activities/one_bit_comparator/one_bit_comparator.srcs/sources_1/new/one_bit_comparator.v:11]
+INFO: [VRFC 10-2458] undeclared symbol AB_bar, assumed default net type wire [F:/Digital System Design/Lab 1 Lab Activities/one_bit_comparator/one_bit_comparator.srcs/sources_1/new/one_bit_comparator.v:12]
+INFO: [VRFC 10-2458] undeclared symbol AB, assumed default net type wire [F:/Digital System Design/Lab 1 Lab Activities/one_bit_comparator/one_bit_comparator.srcs/sources_1/new/one_bit_comparator.v:13]
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Digital System Design/Lab 1 Lab Activities/one_bit_comparator/one_bit_comparator.srcs/sim_1/new/simulation_one_bit_comparator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simualtion_Comparator
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Digital System Design/Lab 1 Lab Activities/one_bit_comparator/one_bit_comparator.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
